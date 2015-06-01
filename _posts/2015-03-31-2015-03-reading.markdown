@@ -1,0 +1,37 @@
+---
+layout: post
+title: "2015/03 已读"
+date: 2015-03-31
+categories: Reading
+---
+
+![Image](http://img4.douban.com/lpic/s6078239.jpg)
+
+[*算法设计手册*](http://book.douban.com/subject/4048566/)
+
+3/5，这书的主要特点是点到为止，很多算法都是简单讲了一下就跳过，让人有跑火车之嫌，当然也有可能是限于篇幅或者作者有ADD[抠鼻]。
+
+![Image](http://img3.douban.com/lpic/s9986810.jpg)
+
+[*算法引论*](http://book.douban.com/subject/1436134/)
+
+4/5，对数学归纳法在设计算法中的使用介绍的还是比较细致，建议一读。
+
+![Image](http://img4.douban.com/lpic/s3239747.jpg)
+
+[*中世纪的秋天*](http://book.douban.com/subject/3196877/)
+
+3/5，赫伊津哈的书，中世纪民众，贵族，思想，艺术各个领域暗流冲击，远远比教科书上简单的一句“黑暗的中世纪”来得复杂。优点是介绍了很多中世纪这些特点形成的原因，例子很多，不会让人觉得作者是在灌输没有依据的观点。抒情很多，可以念出声来读的一本书。确实改变了一些对于中世纪的看法，确实有点啰嗦。
+
+![Image](http://img3.douban.com/lpic/s6941674.jpg)
+
+[*新机器的灵魂*](http://book.douban.com/subject/6851207/)
+
+3/5，给你一次华丽地死去的机会，接不接受？
+
+![Image](http://img3.douban.com/lpic/s4355044.jpg)
+
+[*世界美术名作二十讲*](http://book.douban.com/subject/4238140/)
+
+3/5，傅雷先生文笔没的说，是本好书，缺点是相对平淡（估计是讲义的关系）。
+

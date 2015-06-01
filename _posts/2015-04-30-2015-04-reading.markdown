@@ -1,0 +1,49 @@
+---
+layout: post
+title: "2015/04 已读"
+date: 2015-04-30
+categories: Reading
+---
+
+![Image](http://img3.douban.com/lpic/s6539951.jpg)
+
+[*Effective C++*](http://book.douban.com/subject/6517498/)
+
+5/5，断断续续看完了，看的英文+云风注释的版本，C++编程风格方面必读作品。
+
+![Image](http://img3.douban.com/lpic/s27653922.jpg)
+
+[*艾达*](http://book.douban.com/subject/25977531/)
+
+3/5，读的第一本山田正纪作品，装X用力过猛系列。之前在科幻世界上看过节选，感觉作者脑洞不小，译得也很流畅，所以买来一读，发现确实译得也很流畅。
+
+![Image](http://img3.douban.com/lpic/s26252360.jpg)
+
+[*神的九十亿个名字*](http://book.douban.com/subject/20470849/)
+
+5/5，阿瑟克拉克的短篇集，还是喜欢这种老科幻啊，书名特别适合地铁啊咖啡馆啊装个X什么的，内容也很棒，短篇读起来也没啥压力，睡前来一发做梦都带特效，特别喜欢捉迷藏那篇，绿手指也不错。
+
+![Image](http://img3.douban.com/lpic/s7038392.jpg)
+
+[*奇思妙想*](http://book.douban.com/subject/10432364/)
+
+4/5，很棒，看看老前辈们是怎么搞计算机的。人名的翻译有点奇怪。推荐一读。
+
+![Image](http://img3.douban.com/lpic/s11194203.jpg)
+
+[*程序员的职业素养*](http://book.douban.com/subject/11614538/)
+
+5/5，程序员人性指南，程序员工作指南。
+
+![Image](http://img3.douban.com/lpic/s6394923.jpg)
+
+[*走进搜索引擎*](http://book.douban.com/subject/6125551/)
+
+4/5，还不错，思路和结构很清楚，涉及的选题也比较广，搜索引擎打怪指南（另有一本[*这就是搜索引擎*](http://book.douban.com/subject/7006719/)也不错）。
+
+![Image](http://img3.douban.com/lpic/s11351454.jpg)
+
+[*算法精解*](http://book.douban.com/subject/14267904/)
+
+4/5，这书是老早之前读的，最近又大概翻了一遍，可以作为算法课课外读物。介绍的基本都是贴近实际应用的算法，有代码。
+
