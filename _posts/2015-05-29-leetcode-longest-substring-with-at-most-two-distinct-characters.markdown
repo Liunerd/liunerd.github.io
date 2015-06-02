@@ -2,6 +2,7 @@
 layout: post
 title: "Leetcode: Longest Substring with At Most Two Distinct Characters"
 date:   2015-05-29
+comments: true
 categories: Leetcode
 ---
 

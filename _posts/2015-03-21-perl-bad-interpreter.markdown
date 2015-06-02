@@ -2,6 +2,7 @@
 layout: post
 title: "一行命令搞定/usr/bin/perl^M: bad interpreter"
 date:   2015-03-21
+comments: true
 categories: Perl
 ---
 

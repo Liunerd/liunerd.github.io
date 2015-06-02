@@ -2,6 +2,7 @@
 layout: post
 title: "2015/04 已读"
 date: 2015-04-30
+comments: true
 categories: Reading
 ---
 

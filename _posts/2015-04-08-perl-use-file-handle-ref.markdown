@@ -2,6 +2,7 @@
 layout: post
 title: "一个Perl文件句柄引用的例子"
 date:   2015-04-08
+comments: true
 categories: Perl
 ---
 
