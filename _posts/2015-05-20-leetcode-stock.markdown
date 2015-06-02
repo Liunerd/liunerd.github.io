@@ -64,7 +64,7 @@ IV：至多交易k次；
 
 最后还有一个小问题需要处理，反转以后容易在反转的边界处产生一个不存在的收益。如图所示：
 
-![figure]({{ site.url }}/assets/2015/05/stocks.jpg)
+![figure]({{ site.url }}/assets/images/2015/05/stocks.jpg)
 
 其中右图绿色线段标出了反转以后新的可收益时间段，红色箭头标出了不存在的收益。
 

@@ -32,7 +32,7 @@ categories: Leetcode
 
 关系如图所示：
 
-![figure]({{ site.url }}/assets/2015/05/Longest-Substring-with-At-Most-Two-Distinct-Characters.jpg)
+![figure]({{ site.url }}/assets/images/2015/05/longest-substring-with-at-most-two-distinct-characters.jpg)
 
 S的三个子串满足以下条件：
 
