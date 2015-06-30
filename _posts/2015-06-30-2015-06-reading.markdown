@@ -1,0 +1,58 @@
+---
+layout: post
+title: "2015/06 已读"
+date: 2015-06-30
+comments: true
+categories: Reading
+---
+
+![Image](http://img3.douban.com/lpic/s24576594.jpg)
+
+[莱伯维茨的赞歌](http://book.douban.com/subject/20278398/)
+
+4/5，电工的守护神圣莱伯维茨233，哪有卖手办我要供一个在案头。读的时候满脑子都是dafaq，但读完了才发现这本书确实会让人思考，科学是什么，宗教是什么，为啥科学把地球毁了两遍宗教还在拯救科学。
+
+![Image](http://img4.douban.com/lpic/s24509127.jpg)
+
+[编程大师访谈录](http://book.douban.com/subject/7007204/)
+
+4/5，全书最棒的就是Raskin那章，全程撕逼乔布斯，估计老头那天起床气比较大XD。
+
+
+![Image](http://img4.douban.com/lpic/s2594228.jpg)
+
+[借镜杀人](http://book.douban.com/subject/2133268/)
+
+3/5，一般。全书基本都是在讲各种混乱的八卦和人际关系，最后结局也比较弱。关键是告诉你外表光鲜的人也有他们的烦恼，阿婆多次强调了，他们都是疯子。猜测写这本的时候她可能心情不太好:P。
+
+![Image](http://img3.douban.com/lpic/s25140521.jpg)
+
+[你必须知道的495个C语言问题](http://book.douban.com/subject/3422332/)
+
+5/5，这书是从C FAQ新闻组翻译过来的，正因为是FAQ，这些问题显得更有实际意义和价值，虽然又有点计算机考古学的意思，但内容真心很棒，绝对值得一读。另外我觉得这书应该改名为《你丫必须知道的495个C语言问题》才能从其他烂俗的书里显出它的逼格。
+
+![Image](http://img3.douban.com/lpic/s27234850.jpg)
+
+[全息玫瑰碎片](http://book.douban.com/subject/25808977/)
+
+3/5，威廉吉布森的短篇集，一般。
+
+![Image](http://img3.douban.com/lpic/s2741843.jpg)
+
+[密码](http://book.douban.com/subject/2282516/)
+
+3/5，阿加莎克里斯蒂的间谍小说，典型的悬疑小说写法，先构建一个核心的案件，然后不断向其中添加新的元素，最后再一点一点剥开。
+
+![Image](http://img3.douban.com/lpic/s27250675.jpg)
+
+[大型网站技术架构](http://book.douban.com/subject/25723064/)
+
+3/5，点到为止，还是打怪指南类的书。
+
+![Image](http://img4.douban.com/lpic/s6642796.jpg)
+
+[死亡草](http://book.douban.com/subject/6528130/)
+
+4/5，马普尔小姐的短篇集，一共十三个事件，印象最深的是蓝色天竺葵，圣诞节惨案和死亡草三篇，如果不是柯南剧透太多的话。
+
+
