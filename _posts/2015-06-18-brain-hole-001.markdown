@@ -1,0 +1,17 @@
+---
+layout: post
+title: "脑洞"
+date: 2015-06-18
+comments: true
+categories: Photos
+---
+
+别人拍蓝天的原因：今天天气真好啊，天真蓝啊。
+
+我拍蓝天的原因：我去！那块云的形状好像冰岛！
+
+![figure]({{ site.url }}/assets/images/2015/06/iceland_cloud.jpg)
+
+![figure]({{ site.url }}/assets/images/2015/06/iceland_himself.jpg)
+
+2015-06-18 @Beijing
