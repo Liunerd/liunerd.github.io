@@ -1,0 +1,72 @@
+---
+layout: post
+title: "2015/07-09 已读"
+date: 2015-09-30
+comments: true
+categories: Reading
+---
+
+![Image](http://img6.douban.com/lpic/s9101106.jpg)
+
+[*C++编程规范-101条规则、准则与最佳实践*](http://book.douban.com/subject/1480481/)
+
+4/5
+
+![Image](http://img3.douban.com/lpic/s25996301.jpg)
+
+[*三国配角演义*](http://book.douban.com/subject/20470934/)
+
+3/5，最近看的最轻松的一本书，吹牛不上税的典范。
+
+
+
+![Image](http://img6.douban.com/lpic/s1092076.jpg)
+
+[*STL源码剖析*](http://book.douban.com/subject/1110934/)
+
+4/5，看完这书关于STL算是大概弄明白了，但是大概明白等于没明白。这书不急着收起来准备再看一遍源代码，然后得顺手撸一遍编程的本质，想办法弄明白斯特潘诺夫到底在想啥。
+
+![Image](http://img6.douban.com/lpic/s1683067.jpg)
+
+[*尼罗河上的惨案*](http://book.douban.com/subject/1818347/)
+
+4/5，早就放在reading list里了，上学的时候这本书在图书馆非常难借到，现在终于填坑了，AC的经典之一，整个迷局布置得很棒，最后也是靠一个关键的思路突破反转。AC的书往往有一个鲜明的模式，这个案子的模式就是所有人都看似没有动机，也没有不在场证明。其实看到案件发生的部分时猜到了凶手，因为其他人都被排除了，但是具体手法没有猜到。和那部经典的电影相比，电影更多刻画了其他人对于死者的仇恨，渲染了动机以后整个谜团就更加难猜一些。
+
+
+![Image](http://img6.douban.com/lpic/s3329044.jpg)
+
+[*暗藏杀机*](http://book.douban.com/subject/3271524/)
+
+3/5，汤米&杜本斯系列，从故事的时间线上看应该是第一部。悬念和几次反转做的不错。
+
+![Image](http://img6.douban.com/lpic/s28061253.jpg)
+
+[*猿丸幻视行*](http://book.douban.com/subject/26356943/)
+
+4/5，核心还是一连串的字谜，不懂日文只能看热闹。布局很大，脑洞很大，杀人动机有点无脑。
+
+![Image](http://img6.douban.com/lpic/s1947928.jpg)
+
+[*美国众神*](http://book.douban.com/subject/1939182/)
+
+4/5，介绍里说这是一本公路小说，悬疑小说，侦探小说，但我觉得这就是一个关于什么是信仰和信仰的缺失的故事。节奏略慢，但是读起来很舒服。众神被信仰者们带到美国的小故事都很棒。
+
+![Image](http://img6.douban.com/lpic/s9102105.jpg)
+
+[*占星术杀人魔法*](http://book.douban.com/subject/10740776/)
+
+4/5，讲真看完那两行介绍我就猜出手法和凶手了。有些类似变格派的心理描写，恐怖氛围设置的很足。手法不算顶级，主要还是靠障眼法。
+
+![Image](http://img6.douban.com/lpic/s27979430.jpg)
+
+[*车道尽头的海洋*](http://book.douban.com/subject/26261250/)
+
+4/5，盖曼的书不温不火，但是整个读起来有种看电影的感觉。
+
+![Image](http://img3.douban.com/lpic/s26339705.jpg)
+
+[*差分机*](http://book.douban.com/subject/24153098/)
+
+3/5，斯特林和威廉吉布森合著的世界上第一本蒸汽朋克小说，坑挖的有点大，最后有点收不住的感觉，看完让人云里雾里。
+
+
