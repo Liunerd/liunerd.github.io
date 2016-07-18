@@ -1,0 +1,15 @@
+---
+layout: post
+title: "2016/04-06 已读"
+date: 2016-06-30
+comments: true
+categories: Reading
+---
+
+![Image](https://img1.doubanio.com/lpic/s11329547.jpg)
+
+[*HTTP权威指南*](https://book.douban.com/subject/10746113/)
+
+5/5，算是一本满足类的作品，基本上把每个方面都讲到了，看完了对很多概念清楚了很多。关于连接管理，代理，缓存的几章写的很精彩。
+
+最近三个月赶上收拾新家和搬家，实在是太忙了（~~吃瓜群众：也没耽误看欧洲杯啊~~），闲书完全没有时间看，也就抽空撸了一遍http，感觉还不错。下个季度要开始认真看书了。
