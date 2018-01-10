@@ -30,29 +30,22 @@ categories: Leetcode
 {% highlight c++ %}
 class Solution {
 public:
-    void rotate(vector<vector<int> > &matrix) {
+    void rotate(vector<vector<int>>& matrix) {
         int n = matrix.size();
         if(n < 2) return;
-        int half = n/2;
-        for(int i = 0; i < half; ++i){
-            for(int j = 0; j < half; ++j){
-                int temp = matrix[i][j];
-                matrix[i][j] = matrix[n-1-j][i];
-                matrix[n-1-j][i] = matrix[n-1-i][n-1-j];
-                matrix[n-1-i][n-1-j] = matrix[j][n-1-i];
-                matrix[j][n-1-i] = temp;
-            }
+        int r = n/2, c = n/2 + (n%2 == 1);
+        for(int x = 0; x < r; ++x) for(int y = 0; y < c; ++y){ // foreach pixel in top-left
+        	int i = y, j = n-x-1; // pos in top-right
+        	int val = matrix[i][j];
+        	matrix[i][j] = matrix[x][y];
+        	i = n-x-1; j = n-y-1; // pos in down-right
+        	int temp = matrix[i][j];
+        	matrix[i][j] = val;
+        	i = n-y-1; j = x; // pos in down-left
+        	matrix[x][y] = matrix[i][j];
+        	matrix[i][j] = temp;
         }
-        if(n % 2 == 1){
-            half = n/2;
-            for(int i = 0; i < half; ++i){
-                int temp = matrix[i][half];
-                matrix[i][half] = matrix[half][i];
-                matrix[half][i] = matrix[n-1-i][half];
-                matrix[n-1-i][half] = matrix[half][n-1-i];
-                matrix[half][n-1-i] = temp;
-            }
-        }
+        return;
     }
 };
 {% endhighlight %}
